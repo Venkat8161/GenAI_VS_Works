@@ -1,0 +1,18 @@
+
+--- Product 1 ---
+Title: HP M190 Wireless Mouse (AB3C6AA)
+Price: ₹599
+Rating: 3.5 out of 5 stars
+URL: N/A
+
+--- Product 2 ---
+Title: Portronics Toad 23 Wireless Optical Mouse with 2.4GHz, USB Nano Dongle, Optical Orientation, Click Wheel, Adjustable DPI(Black)
+Price: ₹299
+Rating: 4.0 out of 5 stars
+URL: N/A
+
+--- Product 3 ---
+Title: ZEBRONICS Zeb-Jaguar Wireless Mouse, 2.4GHz with USB Nano Receiver, High Precision Optical Tracking, 4 Buttons, Plug & Play, Ambidextrous, for PC/Mac/Laptop (Black+Grey)
+Price: ₹299
+Rating: 3.9 out of 5 stars
+URL: N/A
