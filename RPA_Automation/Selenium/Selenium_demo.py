@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-
+# --- RPA Automation using Selenium for WhatsApp Web ---
 # --- CONFIGURATION ---
 contact_name = "Siva Sankar Bro Seai" #Change your contact name here
 message_text = "Hello, this is an automated message from Selenium!"
