@@ -7,8 +7,8 @@ import time
 
 # --- RPA Automation using Selenium for WhatsApp Web ---
 # --- CONFIGURATION ---
-contact_name = "Siva Sankar Bro Seai" #Change your contact name here
-message_text = "Hello, this is an automated message from Selenium!"
+contact_name = "DET 2011 RNAIPL" #Change your contact name here
+message_text = "hi it's automoted your acount has been hacked" #Change your message here
 
 # --- SETUP CHROME DRIVER ---
 options = webdriver.ChromeOptions()
