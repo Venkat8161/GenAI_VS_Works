@@ -4,7 +4,7 @@ import openpyxl
 from playwright.sync_api import sync_playwright
 
 
-SEARCH_QUERY = "wireless mouse"
+SEARCH_QUERY = "Painless heel shoes"
 AMAZON_URL = "https://www.amazon.in"
 
 # Setup Excel

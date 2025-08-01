@@ -1,18 +1,18 @@
 
 --- Product 1 ---
-Title: HP M190 Wireless Mouse (AB3C6AA)
-Price: ₹599
-Rating: 3.5 out of 5 stars
+Title: N/A
+Price: ₹299
+Rating: 2.6 out of 5 stars
 URL: N/A
 
 --- Product 2 ---
-Title: Ambrane Wireless Mouse with 2.4GHz, USB Nano Dongle, Silent Click, Optical Orientation Click Wheel, 4 Buttons, 1600 Adjustable DPI, Both Hand Use, Compatible with PC, Mac, Laptop (Sliq 3, Black)
-Price: ₹299
-Rating: 3.8 out of 5 stars
+Title: N/A
+Price: ₹369
+Rating: 4.5 out of 5 stars
 URL: N/A
 
 --- Product 3 ---
-Title: ZEBRONICS Zeb-Jaguar Wireless Mouse, 2.4GHz with USB Nano Receiver, High Precision Optical Tracking, 4 Buttons, Plug & Play, Ambidextrous, for PC/Mac/Laptop (Black+Grey)
-Price: ₹299
-Rating: 3.9 out of 5 stars
+Title: N/A
+Price: ₹199
+Rating: 3.8 out of 5 stars
 URL: N/A
